@@ -13,7 +13,7 @@ Please download .zip file, and we will upload the model weights later.
 If you find our work helpful, please consider citing our paper:
 
 ```bibtex
-@article{WANG2025103120,
+@article{WANG,
   title={{SCIA-GAN: Robust Image Watermarking via Spatial-Channel Interaction Attention and Feature Preservation}},
   author={Ruilin Wang, Lingchen Gu, Yunhao Li, Jun Wang, Wenbo Wan, Jiande Sun and Sen-ching Samson Cheung},
   journal={Expert Systems With Applications},
